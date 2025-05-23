@@ -8,7 +8,7 @@ int main() {
     int a, b, c;
     int cc, dd;
     cin >> a >> b >> c;
-    int temp = a + b + c;
+    int temp = a + b + c + 1;
     cout << temp << endl;
     int tt, bb;
     return 0;
