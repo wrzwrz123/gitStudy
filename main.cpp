@@ -13,5 +13,6 @@ int main() {
     cout << temp << endl;
     int tt, bb;
     int oo;
+    int ost;
     return 0;
 }
