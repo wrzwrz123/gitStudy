@@ -6,7 +6,10 @@ using namespace std;
 
 int main() {
     int a, b, c;
+    int cc, dd;
     cin >> a >> b >> c;
-    cout << a + b + c << endl;
+    int temp = a + b + c;
+    cout << temp << endl;
+    int tt, bb;
     return 0;
 }
