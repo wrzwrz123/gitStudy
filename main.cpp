@@ -11,5 +11,6 @@ int main() {
     int temp = a + b + c + 1;
     cout << temp << endl;
     int tt, bb;
+    int oo;
     return 0;
 }
