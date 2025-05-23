@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
     int a, b, c;
+    int os;
     int cc, dd;
     cin >> a >> b >> c;
     int temp = a + b + c + 1;
